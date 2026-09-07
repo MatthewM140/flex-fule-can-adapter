@@ -527,7 +527,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "flex-fule-can-adapter-v1-fab/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -537,7 +537,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -651,7 +651,7 @@
         "uuid": "077978c9-a704-4aa8-820f-9f7a9583649a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D+2,TP1-3",
     "variants": []
   },
   "sheets": [
